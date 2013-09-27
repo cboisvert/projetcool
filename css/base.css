@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+.container{
+    border-right:1px solid #505050;
+    border-left:1px solid #505050;
+}
+h1.titrePrincipale{
+    color: #28b206;
+}
+.titrePrincipale, #loginForm{
+    float:none!important;
+    margin:10px auto!important;
+}
