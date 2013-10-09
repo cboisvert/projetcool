@@ -992,3 +992,1774 @@ Stack trace:
 REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
 HTTP_REFERER=http://projetcool.local/dashboard
 ---
+2013/10/08 23:13:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/
+---
+2013/10/08 23:13:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon1.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon1.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon2.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon2.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon5.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon5.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon4.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon4.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:27:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon3.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon3.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/logo.jpg".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/logo.jpg
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon6.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon6.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon11.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon11.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon_small.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon_small.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:28:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon21.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon21.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:28:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon31.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon31.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:28:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon41.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon41.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon1.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon1.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon2.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon2.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon4.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon4.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon6.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon6.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon11.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon11.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon5.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon5.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon3.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon3.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon1.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon1.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon_small.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon_small.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/logo.jpg".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/logo.jpg
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon31.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon31.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon21.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon21.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon41.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon41.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon1.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon1.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon2.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon2.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon4.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon4.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon11.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon11.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon5.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon5.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon6.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon6.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon3.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon3.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon2.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon2.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon3.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon3.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon21.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon21.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon4.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon4.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon1.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon1.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon5.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon5.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon31.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon31.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon41.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon41.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon11.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon11.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon6.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon6.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon_small.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon_small.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/logo.jpg".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/logo.jpg
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon1.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon1.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon2.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon2.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon4.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon4.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon6.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon6.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon3.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon3.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon5.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon5.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon11.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon11.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon31.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon31.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon1.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon1.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon41.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon41.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon2.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon2.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon4.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon4.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/stat_icon21.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/stat_icon21.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/gift_icon_small.png".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/gift_icon_small.png
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:33:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/58c13591/images/logo.jpg".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/58c13591...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/58c13591/images/logo.jpg
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:34:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:35:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:35:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:36:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:37:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:39:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:39:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:39:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/08 23:40:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:41:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:42:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:43:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:47:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:47:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/
+---
+2013/10/08 23:50:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/
+---
+2013/10/08 23:50:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:50:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:50:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:51:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/08 23:52:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:00:46 [error] [exception.CException] exception 'CException' with message 'EWebApplication and its behaviors do not have a method or closure named "registerScriptFile".' in C:\wamp\www\projetcool\yii\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\wamp\www\projetcool\projetcool\views\dashboard\index.php(2): CComponent->__call('registerScriptF...', Array)
+#1 C:\wamp\www\projetcool\projetcool\views\dashboard\index.php(2): EWebApplication->registerScriptFile('https://www.goo...')
+#2 C:\wamp\www\projetcool\yii\framework\web\CBaseController.php(126): require('C:\wamp\www\pro...')
+#3 C:\wamp\www\projetcool\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\wamp\www\pro...', Array, true)
+#4 C:\wamp\www\projetcool\yii\framework\web\CController.php(869): CBaseController->renderFile('C:\wamp\www\pro...', Array, true)
+#5 C:\wamp\www\projetcool\yii\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 C:\wamp\www\projetcool\projetcool\controllers\DashboardController.php(15): CController->render('index', Array)
+#7 C:\wamp\www\projetcool\yii\framework\web\actions\CInlineAction.php(49): DashboardController->actionIndex()
+#8 C:\wamp\www\projetcool\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 C:\wamp\www\projetcool\yii\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 C:\wamp\www\projetcool\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(282): CController->run('')
+#12 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('dashboard')
+#13 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#15 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#16 {main}
+REQUEST_URI=/dashboard
+HTTP_REFERER=http://projetcool.local/
+---
+2013/10/09 00:01:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:01:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:03:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:04:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:07:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:08:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:09:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 00:17:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:20:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:21:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:26:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:29:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:29:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:35:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:36:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:38:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:39:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:40:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:41:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:41:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:41:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:44:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:45:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:46:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:46:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:47:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:47:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:48:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:49:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:49:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:50:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:51:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:51:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:52:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:52:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:52:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:53:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:53:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:54:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:55:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:55:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:55:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:57:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:57:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:58:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:58:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 01:59:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:00:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:01:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:01:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:01:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:07:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:08:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:17:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:18:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:22:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:23:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:23:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:24:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:25:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:30:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('ajax.googleapis...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:30:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:30:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:30:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:32:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/3b28c264/js/timpicker.css".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/3b28c264...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/3b28c264/js/timpicker.css
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:32:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:32:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/3b28c264/js/timpicker.js".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/3b28c264...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/3b28c264/js/timpicker.js
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:32:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:34:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/3b28c264/js/timpicker.js".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/3b28c264...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/3b28c264/js/timpicker.js
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:34:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:34:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:38:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:39:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:40:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:41:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:43:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:44:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:45:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:46:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:47:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---
+2013/10/09 02:48:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\wamp\www\projetcool\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\wamp\www\projetcool\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\wamp\www\projetcool\bootstrap.php(64): CApplication->run()
+#3 C:\wamp\www\public\projetcool\index.php(6): require_once('C:\wamp\www\pro...')
+#4 {main}
+REQUEST_URI=/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://projetcool.local/dashboard
+---

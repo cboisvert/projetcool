@@ -17,6 +17,7 @@ return array(
 		'application.models.db.*',
         'application.models.form.*',
 		'application.components.*',
+        'ext.YiiMongoDbSuite.*',
 	),
 
 	'modules'=>array(
@@ -33,6 +34,7 @@ return array(
 
 	// application components
 	'components'=>array(
+        
 		'user'=>array(
 			// enable cookie-based authentication
 			'allowAutoLogin'=>true,
@@ -51,10 +53,18 @@ return array(
 				'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
 			),
 		),
+        'mongodb' => array(
+            'class'            => 'EMongoDB',
+            'connectionString' => 'mongodb://iwm:devdev@candidate.7.mongolayer.com:10018/projetcool',
+            'dbName'           => 'projetcool',
+            'fsyncFlag'        => true,
+            'safeFlag'         => true,
+            'useCursor'        => false
+        ),
 
-		'db'=>array(
+		/*'db'=>array(
 			'connectionString' => 'sqlite:'.dirname(__FILE__).'/../data/testdrive.db',
-		),
+		),*/
 		// uncomment the following to use a MySQL database
 		/*
 		'db'=>array(
