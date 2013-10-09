@@ -4,19 +4,29 @@
 <button id="addTask" style="margin-left:100px;">Add task</button>
 <div class="clr"></div>
 <div id="addTaskDiv" style="display: none;margin-left:10px;position:absolute;">
-    <label>Time Begin:</label>
-    <input type="text" id="begin"/>
-    <label>Time end:</label>
-    <input type="text" id="end"/>
-    <label>Description:</label>
-    <input type="text"/>
-    <label>Personne:</label>
-    <input type="text"/>
-    <label>Compétence:</label>
-    <input type="text"/>
-    <label>Projet:</label>
-    <input type="text"/>
-    <input type="submit" value="Add"/>
+    <?php $form = $this->beginWidget("CActiveForm");?>
+    <?php echo $form->label($taskModel,"date_begin"); ?>
+    <?php echo $form->textField($taskModel,"date_begin",array("class"=>"begin")); ?>
+    <?php echo $form->label($taskModel,"date_end"); ?>
+    <?php echo $form->textField($taskModel,"date_end",array("class"=>"end")); ?>
+    <?php echo $form->label($taskModel,"description"); ?>
+    <?php echo $form->textField($taskModel,"description"); ?>
+    <?php echo $form->label($taskModel,"person"); ?>
+    <?php echo $form->textField($taskModel,"person"); ?>
+    <?php echo $form->label($taskModel,"department"); ?>
+    <?php echo $form->textField($taskModel,"department"); ?>
+    <?php echo $form->label($taskModel,"project"); ?>
+    <?php echo $form->textField($taskModel,"project"); ?>
+    <?php echo CHtml::ajaxSubmitButton('Add',CHtml::normalizeUrl(array('/dashboard/ajaxAddTask')),
+                 array(
+                     'dataType'=>'json',
+                     'type'=>'get',
+                     'success'=>'function(data) {
+                         console.log(data);      
+                    }',                    
+                     
+                     )); ?>
+<?php $this->endWidget();?>
 </div>
 <div id="stats" class="row-fluid">
     <div class="statsContenu span4">
@@ -108,8 +118,8 @@
             $("#addTaskDiv").fadeIn(1000,function(){
                 $("#addTaskDiv").css("position","relative");
                 $("#stats").css("margin-top","0px");
-                $("#begin").datepicker();
-                $("#end").datepicker();
+                $("#TaskForm_date_begin").datepicker();
+                $("#TaskForm_date_end").datepicker();
                 /*$("#begin").datetimepicker({
                     dateFormat : 'dd-mm-yy',
                     minDate: (function() {

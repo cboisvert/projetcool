@@ -8,7 +8,6 @@ class Task extends EmongoDocument{
     public $date_begin;
     public $date_end;
     public $description;
-    public $tasks;
     
     
     public static function model($className=__CLASS__)

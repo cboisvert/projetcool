@@ -3,15 +3,12 @@
 class DashboardController extends Controller
 {
 
-    public function actionIndex()
-    {
-        $login = new LoginForm();
-        if(isset($_POST["LoginForm"])){
-            $login->attributes = $_POST["LoginForm"];
-            if($login->validate() && $login->save()){
-                $this->redirect("/dashboard");
-            }
-        }
-        $this->render('index',array("login"=>$login));
+    public function actionIndex(){
+        $model = new TaskForm();
+        $this->render('index',array("taskModel"=>$model));
+    }
+    
+    public function actionAjaxAddTask($task){
+        echo json_encode($task);
     }
 }
